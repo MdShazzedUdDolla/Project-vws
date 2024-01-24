@@ -1,0 +1,49 @@
+#main_cont {
+    position: relative;
+    margin-top: 5%;
+    margin-left: 25%;
+    width: 50%;
+    height: 700px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    border: 1px solid black;
+    color: black;
+    text-align: center;
+}
+
+#verification_text {
+    position: relative;
+    font-size: 3em;
+}
+
+#verification_info {
+    position: relative;
+    top: 10%;
+    font-size: 2em;
+}
+
+.form-group {
+    position: relative;
+    top: 15%;
+}
+
+#resend_verification {
+    position: relative;
+    text-decoration: underline;
+    color: blue;
+    top: 100px;
+}
+
+#resend_verification:visited {
+    position: relative;
+    text-decoration: underline;
+    color: rgb(0, 100, 150);
+    top: 100px;
+}
+
+#resend_verification:hover {
+    position: relative;
+    text-decoration: underline;
+    color: rgb(0, 0, 150);
+    top: 100px;
+}

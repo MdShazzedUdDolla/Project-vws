@@ -1,0 +1,46 @@
+h4 {
+    text-align: center;
+    color: #009f00;
+}
+
+body {
+    background-color: gray;
+  }
+
+  button {
+    background-color: #659986; 
+    border: 1px solid green; 
+    color: #ffffff; 
+    padding: 10px 24px; 
+
+    border-radius: 15px;
+    display: block;
+    margin-left: auto;
+    outline: none;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  button:active{
+  background-color: white;
+  }
+
+  button:hover{
+  color:#000000;
+  background-color:#49b731;
+  }
+
+  button:hover span {
+    padding-right: 25px;
+  }
+  .center {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;  
+    }
+  
+ 

@@ -1,0 +1,25 @@
+.wall {
+    text-align: center;
+    padding: 100px;
+
+    font-weight: bold;
+    font-size:2vw;
+
+}
+
+body {
+        background-color: white;
+        margin: auto;
+        width: 640px; 
+        padding: 50px;
+        font-family: 'Lexend Deca', sans-serif; 
+        color: #192a39;      
+  }
+
+
+.center {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;  
+    }
