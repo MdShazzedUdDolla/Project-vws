@@ -1,0 +1,1 @@
+this folder mainly contains the script that will focuse on backend side . The details of the subfolders can be disgussed later
